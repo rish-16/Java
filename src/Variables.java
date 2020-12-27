@@ -28,7 +28,7 @@ public class Variables {
         boolean flag = true;
         System.out.println(flag);
         
-        char text = 'f';l
+        char text = 'f';
         System.out.println(text);
     }
 }
